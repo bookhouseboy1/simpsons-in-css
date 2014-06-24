@@ -54,7 +54,7 @@
     -moz-border-radius: 32px 32px 0 0;
     -webkit-border-radius: 32px 32px 0 0;
     background: transparent;
-    -webkit-transform: rotate(-27deg);
+    otate(-27deg);
     -ms-transform: rotate(-27deg);
     transform: rotate(-27deg);
     border-bottom: none;
@@ -160,27 +160,6 @@
     transform: rotate(-21deg);
 }
 
-#homer .head .ear .inner2
-{
-    top: 3px;
-    left: 4px;
-    width: 7px;
-    height: 5px;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    border-radius: 50%;
-    border-top: 1px solid #110b00;
-    -webkit-transform: rotate(-109deg);
-    -ms-transform: rotate(-109deg);
-    transform: rotate(-109deg);
-}
-
-#homer .head .ear .clip
-{
-    top: 1px;
-    left: 8px;
-    width: 5px;
-    height: 10px;
 }
 
 #homer .head .right-eye
